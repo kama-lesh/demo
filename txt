@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>tesla</title>
+</head>
+<body>
+<style>
+      body{background-image: url(tesla.jpg) ;}
+</style>
+
+<h1><i><u> How Costly is </u></i> <a  href="https://www.tesla.com/">"T E S L A"</a> </h1>
+<p><i>Tesla Cars Price List (December 2022) in India. Tesla car price is ₹ 70.00 Lakh </i></p>
+<p><i>The prices for the top 2 popular
+     Tesla Cars are: Tesla Model 3 Price is ₹ 70.00 Lakh and Tesla
+      Model S Price is ₹ 70.00 Lakh.</i></p>
+      <p style = "color: red"> <i> T E S L A</i></p>
+<img src ="tesla.jpg" height = "500"  width = "1000" alt = "hot wheel" >
+<br>
+<br>
+<br>
+<br>
+<br>
+<img src ="tesla1.jpg" height ="400" width ="500" alt  ="cars " >
+<p style = "color: rgb(238, 144, 202)">T E S L A</p>
+</body>
+
+</html>
